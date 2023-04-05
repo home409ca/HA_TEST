@@ -1,0 +1,8 @@
+views:
+  - title: Historia
+    cards:
+      - type: history-graph
+        title: "Historia"
+        entities: []
+      - type: "custom:history-save-entities-card"
+        title: "Zapisane encje"
