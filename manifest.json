@@ -2,7 +2,7 @@ manifest.json:
 {
   "domain": "history_save_entities",
   "name": "History Save Entities",
-  "documentation": "https://github.com/username/history-save-entities",
+  "documentation": "https://github.com/home409ca/history-save-entities",
   "dependencies": ["frontend"],
   "codeowners": ["@username"],
   "version": "0.1.1",
