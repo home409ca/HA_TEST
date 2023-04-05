@@ -2,7 +2,7 @@ manifest.json:
 {
   "domain": "history_save_entities",
   "name": "History Save Entities",
-  "documentation": "https://github.com/username/history-save-entities",
+  "documentation": "https://github.com/home409ca/history-save-entities",
   "dependencies": ["frontend"],
   "codeowners": ["@username"],
   "version": "0.1.1",
@@ -24,7 +24,7 @@ manifest.json:
       "description": "Wtyczka dodająca opcję zapisywania wybranych encji w panelu historii.",
       "requirements": ["homeassistant>=0.118.0"],
       "codeowners": ["@username"],
-      "documentation": "https://github.com/username/history-save-entities",
+      "documentation": "https://github.com/home409ca/history-save-entities",
       "domains": ["history_save_entities"],
       "python_script": false,
       "render_readme": true
